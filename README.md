@@ -1,16 +1,14 @@
-## Hi there 👋
+# Project b2111855
 
-<!--
-**B2111855/b2111855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Giới thiệu
+Đây là repository thực hành của sinh viên **B2111855**.
 
-Here are some ideas to get you started:
+## Thông tin thành viên nhóm
+- **Nguyễn Văn A**: Leader
+- **Trần Thị B**: Developer
+- **Phạm Văn C**: Tester
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hướng dẫn sử dụng
+1. Clone repository này:
+   ```bash
+   git clone https://github.com/B2111855/b2111855.git
